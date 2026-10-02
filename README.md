@@ -30,11 +30,11 @@ Capa de visualización directiva interactiva, construida sobre un esquema en est
 
 ## Diagnóstico Clínico y Hallazgos
 
-El análisis cruzado refutó la hipótesis inicial de abandono por sensibilidad al precio o impacto de la competencia. Se demostró una deficiencia operativa estructural:
+El análisis cruzado refutó la hipótesis inicial de abandono por sensibilidad al precio o impacto de la competencia. Se demostró una deficiencia operativa estructural basada en una segmentación inadecuada del soporte técnico B2B:
 
-1. **Foco de Pérdida:** El sector `DevTools` encabeza la destrucción de capital, generando fugas severas documentadas en exigencia de reembolsos.
-2. **Causa Operativa:** El motivo central de cancelación es la deficiente calidad del soporte técnico (nota promedio inferior a 2.5/5).
-3. **Fallo Estructural:** Los agentes de Nivel 1 cierran los tickets técnicos con alta velocidad, pero la tasa de escalado a ingenieros de Nivel 2 es del 0%. Los clientes técnicos reciben respuestas genéricas no resolutivas, generando un patrón directo de frustración y cancelación de licencias.
+1. **Foco de Pérdida:** El sector `DevTools` (clientes de perfil altamente técnico) encabeza la destrucción de capital, generando fugas severas documentadas en exigencias de reembolsos directos.
+2. **Causa Operativa:** El motivo central de cancelación declarado por este segmento es la ineficacia del área de `support`.
+3. **Fallo Estructural (Cuello de Botella):** El protocolo de soporte no está adaptado a la complejidad de la cartera. Los agentes de Nivel 1 cierran los tickets con alta velocidad, derivando apenas un volumen marginal (20 tickets) a los ingenieros de Nivel 2. Al intentar resolver incidencias complejas con respuestas genéricas de Nivel 1, se genera un patrón de frustración técnica que desemboca en la cancelación del servicio y la exigencia del reembolso.
 
 ## Stack Tecnológico
 * **SQL:** Back-end, cruces relacionales (`JOINs`), funciones de agregación y limpieza inicial.
